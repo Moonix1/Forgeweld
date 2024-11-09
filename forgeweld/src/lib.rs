@@ -1,5 +1,6 @@
 pub mod core {
 	pub mod defines;
+	pub mod log;
 	pub mod application;
 	pub mod entry;
 }
